@@ -3,7 +3,7 @@ N = 64;
 np=64;
 T=500;
 t=linspace(0,T-1/np,T*np);
-x = sawtooth(2*pi*t);
+x = sawtooth(2*pi*t,0.5);
 %% Sine wave:                 
 np=32;
 T=1000;
