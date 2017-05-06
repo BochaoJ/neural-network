@@ -1,4 +1,4 @@
-# HW 5
-run main.m
+# RNN & MLP 
+Training Recurrent Neural Networks & Multi Layer Perceptions
 
 Copyright @ Bochao Jia
